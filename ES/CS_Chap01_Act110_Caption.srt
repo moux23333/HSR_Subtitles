@@ -1,0 +1,16 @@
+﻿1
+00:00:00,233 --> 00:00:03,000
+Para crear algo nuevo, hay que destruir lo viejo.
+
+2
+00:00:03,750 --> 00:00:07,150
+¡La Guardiana Suprema ordena...
+
+3
+00:00:07,716 --> 00:00:09,600
+... que te alces, Motor de la Creación!
+
+4
+00:00:12,883 --> 00:00:15,150
+¡Es una de las antiguas máquinas de los Arquitectos! ¡Cuidado!
+

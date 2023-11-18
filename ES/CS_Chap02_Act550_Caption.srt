@@ -1,0 +1,52 @@
+﻿1
+00:00:01,540 --> 00:00:02,466
+¡No te escondas!
+
+2
+00:00:04,956 --> 00:00:06,200
+Revela...
+
+3
+00:00:06,616 --> 00:00:07,233
+¡tu auténtico yo!
+
+4
+00:00:07,233 --> 00:00:07,683
+¡Alto!
+
+5
+00:00:20,155 --> 00:00:20,800
+¡Tú...!
+
+6
+00:00:22,666 --> 00:00:25,383
+Permíteme presentarlos.
+
+7
+00:00:26,624 --> 00:00:30,600
+La persona detrás de ti ha cometido los diez pecados capitales...
+
+8
+00:00:32,146 --> 00:00:35,716
+ha traicionado a Xianzhou e incitado al caos.
+
+9
+00:00:36,713 --> 00:00:38,800
+Un criminal de por vida.
+
+10
+00:00:42,431 --> 00:00:44,166
+El Gran Maestre vidyadhara
+
+11
+00:00:45,205 --> 00:00:46,766
+¡Imbibitor Lunae!
+
+12
+00:00:58,561 --> 00:01:03,783
+¿De verdad crees que solo los Cazadores se infiltraron en Xianzhou?
+
+13
+00:01:04,775 --> 00:01:10,900
+En ese caso, tendré que llevarme a ambos, ¡y dejar que el general decida!
+

@@ -1,0 +1,28 @@
+﻿1
+00:00:21,600 --> 00:00:22,366
+¡Ahhh!
+
+2
+00:00:27,216 --> 00:00:28,416
+¡¿Qué es eso?!
+
+3
+00:00:35,666 --> 00:00:37,550
+¡Encárgate de la evacuación, rápido!
+
+4
+00:00:39,283 --> 00:00:40,516
+¡Corran!
+
+5
+00:00:51,666 --> 00:00:52,266
+¡Cuidado!
+
+6
+00:00:54,466 --> 00:00:56,650
+Parece que llegué en un mal momento.
+
+7
+00:00:57,050 --> 00:00:59,483
+No. No podrías haber venido en un mejor momento.
+

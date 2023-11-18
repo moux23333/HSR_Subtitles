@@ -1,0 +1,48 @@
+﻿1
+00:00:00,966 --> 00:00:03,966
+Salut, l'équipe de l'Astral Express, ça faisait un bail.
+
+2
+00:00:04,533 --> 00:00:05,783
+C'est Kafka.
+
+3
+00:00:08,916 --> 00:00:12,516
+J'arrive au bon moment. Vous êtes tous là...
+
+4
+00:00:12,716 --> 00:00:14,483
+Sans exception.
+
+5
+00:00:14,533 --> 00:00:17,533
+On peut se passer de ces mystérieuses présentations...
+
+6
+00:00:17,783 --> 00:00:19,283
+Chasseuse de Stellaron.
+
+7
+00:00:21,850 --> 00:00:23,833
+Tu es Himeko, c'est ça ?
+
+8
+00:00:25,583 --> 00:00:28,533
+Désolée d'interrompre votre petite sauterie.
+
+9
+00:00:28,650 --> 00:00:30,950
+Mais je suis sûre que vous me pardonnerez...
+
+10
+00:00:31,066 --> 00:00:32,983
+Quand vous aurez entendu ma requête.
+
+11
+00:00:33,566 --> 00:00:35,216
+J'aimerais vous proposer...
+
+12
+00:00:36,150 --> 00:00:38,000
+... un changement d'itinéraire.
+

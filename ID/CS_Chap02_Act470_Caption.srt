@@ -1,0 +1,16 @@
+﻿1
+00:00:02,350 --> 00:00:02,783
+Bangun!
+
+2
+00:00:24,154 --> 00:00:26,600
+Ini alasan kenapa kamu di sini?
+
+3
+00:00:27,398 --> 00:00:28,700
+Semuanya untuk itu?
+
+4
+00:00:29,835 --> 00:00:32,916
+Bagaimana, tidak seperti ekspektasimu ya?
+

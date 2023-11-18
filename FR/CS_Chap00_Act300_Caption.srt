@@ -1,0 +1,44 @@
+﻿1
+00:00:05,716 --> 00:00:06,700
+March !
+
+2
+00:00:16,933 --> 00:00:18,933
+Je dois partir à présent.
+
+3
+00:00:21,350 --> 00:00:22,800
+Qu'est-ce qui s'est passé ?
+
+4
+00:00:23,516 --> 00:00:26,016
+Tu dois voir la fin de ton histoire.
+
+5
+00:00:26,983 --> 00:00:27,750
+... Qui est-ce ?
+
+6
+00:00:27,750 --> 00:00:31,266
+Atteins la fin de l'histoire à ta manière.
+
+7
+00:00:33,666 --> 00:00:34,233
+Regarde.
+
+8
+00:00:35,150 --> 00:00:38,583
+Ils ont déjà les yeux rivés sur toi.
+
+9
+00:01:06,683 --> 00:01:07,683
+Monsieur Yang ! Est-ce {M#qu'il}{F#qu'elle} est...
+
+10
+00:01:08,200 --> 00:01:09,200
+Tout va bien, maintenant.
+
+11
+00:01:10,200 --> 00:01:11,433
+Allons discuter ailleurs.
+

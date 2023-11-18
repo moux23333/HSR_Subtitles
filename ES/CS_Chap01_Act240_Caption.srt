@@ -1,0 +1,20 @@
+﻿1
+00:00:00,400 --> 00:00:01,866
+Lo sabía...
+
+2
+00:00:03,100 --> 00:00:05,666
+¡Lo sabía! Miembro honorari{F#a}{M#o}...
+
+3
+00:00:06,866 --> 00:00:09,966
+¡Sabía que volverías a vernos!
+
+4
+00:00:11,100 --> 00:00:12,700
+Proclamo que...
+
+5
+00:00:12,700 --> 00:00:15,900
+{F#la campeona}{M#el campeón} de este año es...
+

@@ -1,0 +1,32 @@
+﻿1
+00:00:01,483 --> 00:00:02,383
+Diese Leute ...
+
+2
+00:00:03,133 --> 00:00:04,333
+scheinen nicht gerade glücklich darüber zu sein, uns zu sehen.
+
+3
+00:00:05,616 --> 00:00:06,733
+Auf Anordnung der Obersten Wächterin
+
+4
+00:00:07,600 --> 00:00:08,783
+darfst du nicht weitergehen,
+
+5
+00:00:09,583 --> 00:00:10,183
+Fräulein Topaz.
+
+6
+00:00:13,283 --> 00:00:14,583
+Belobog ist vielleicht im Rückstand,
+
+7
+00:00:15,333 --> 00:00:17,666
+aber ich bin pleite.
+
+8
+00:00:26,866 --> 00:00:28,350
+Bis später, Hauptmann!
+

@@ -1,0 +1,8 @@
+﻿1
+00:00:12,500 --> 00:00:15,800
+Ce n'est pas dans mon contrat de réparer les dégâts causés par les autres...
+
+2
+00:00:16,200 --> 00:00:18,500
+Tu comprends, Kafka ?
+

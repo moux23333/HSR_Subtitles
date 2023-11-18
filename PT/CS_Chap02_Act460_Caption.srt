@@ -1,0 +1,16 @@
+﻿1
+00:00:08,733 --> 00:00:09,600
+Todo mundo, para trás!
+
+2
+00:00:15,066 --> 00:00:17,466
+Deem esse remédio para ele e façam ele se deitar!
+
+3
+00:00:22,078 --> 00:00:23,078
+E-eu quero dizer...
+
+4
+00:00:23,403 --> 00:00:25,650
+...façam "eles" se deitarem...
+

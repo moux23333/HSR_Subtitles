@@ -1,0 +1,16 @@
+﻿1
+00:00:01,250 --> 00:00:02,600
+Lass mich mal sehen ...
+
+2
+00:00:02,900 --> 00:00:05,250
+{F#Diejenige, die}{M#Derjenige, der} Phantylia besiegt hat?
+
+3
+00:00:05,950 --> 00:00:07,033
+Ich frage mich,
+
+4
+00:00:07,500 --> 00:00:08,866
+wie {F#sie}{M#er} wohl schmeckt ...
+

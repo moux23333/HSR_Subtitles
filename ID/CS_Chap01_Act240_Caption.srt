@@ -1,0 +1,20 @@
+﻿1
+00:00:00,400 --> 00:00:01,866
+Sudah kuduga ....
+
+2
+00:00:03,100 --> 00:00:05,666
+Sudah kuduga! Anggota kehormatan ....
+
+3
+00:00:06,866 --> 00:00:09,966
+Sudah kuduga kamu pasti akan kembali untuk mengunjungi kami!
+
+4
+00:00:11,100 --> 00:00:12,700
+Dengan ini kunyatakan ...
+
+5
+00:00:12,700 --> 00:00:15,900
+juara tahun ini ...
+

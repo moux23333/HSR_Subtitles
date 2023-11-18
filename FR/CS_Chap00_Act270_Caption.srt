@@ -1,0 +1,20 @@
+﻿1
+00:00:08,400 --> 00:00:09,333
+Hé, les mauvais perdants.
+
+2
+00:00:09,466 --> 00:00:11,850
+Pas la peine de vous liguer contre nous !
+
+3
+00:00:19,494 --> 00:00:19,800
+Allez !
+
+4
+00:00:29,066 --> 00:00:31,050
+Pourquoi faut-il toujours qu'il y ait autant d'animation ?
+
+5
+00:00:31,850 --> 00:00:33,966
+Enfin, au moins vous êtes de retour.
+

@@ -1,0 +1,32 @@
+﻿1
+00:00:01,483 --> 00:00:02,383
+Ces types...
+
+2
+00:00:03,133 --> 00:00:04,333
+... n'ont pas l'air très contents de nous voir.
+
+3
+00:00:05,616 --> 00:00:06,733
+Par ordre de la Gardienne suprême...
+
+4
+00:00:07,600 --> 00:00:08,783
+... Pas un pas de plus...
+
+5
+00:00:09,583 --> 00:00:10,183
+... Mademoiselle Topaz.
+
+6
+00:00:13,283 --> 00:00:14,583
+... Belobog a beau avoir des arriérés de paiement...
+
+7
+00:00:15,333 --> 00:00:17,666
+... c'est moi qui perd de l'argent avec ces histoires.
+
+8
+00:00:26,866 --> 00:00:28,350
+À la prochaine, Capitaine !
+

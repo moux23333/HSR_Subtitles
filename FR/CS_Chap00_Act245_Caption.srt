@@ -1,0 +1,16 @@
+﻿1
+00:00:00,233 --> 00:00:01,266
+Et voilà.
+
+2
+00:00:09,100 --> 00:00:11,466
+De quoi se {M#souvient-il}{F#souvient-elle} ?
+
+3
+00:00:11,616 --> 00:00:13,966
+... {M#Il}{F#Elle} se souviendra de toi.
+
+4
+00:00:14,550 --> 00:00:16,600
+Il est temps de se réveiller.
+

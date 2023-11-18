@@ -1,0 +1,16 @@
+﻿1
+00:00:04,216 --> 00:00:04,800
+Passt auf!
+
+2
+00:00:07,533 --> 00:00:09,200
+Sie haben zu uns aufgeholt ...
+
+3
+00:00:09,400 --> 00:00:11,333
+Hatten sogar Zeit, einen Hinterhalt zu planen ...
+
+4
+00:00:11,966 --> 00:00:14,966
+Hmpf, wagt ihr es, mich zu unterschätzen?
+
