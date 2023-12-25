@@ -1,0 +1,8 @@
+﻿1
+00:00:27,033 --> 00:00:35,733
+After <unbreak>56</unbreak> seconds, the creature was unable to sustain its own existence and vanished as if it had never been born.
+
+2
+00:00:39,166 --> 00:00:42,466
+The threat is over. Time to get going.
+

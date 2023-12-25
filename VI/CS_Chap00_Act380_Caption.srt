@@ -1,0 +1,40 @@
+﻿1
+00:00:04,433 --> 00:00:07,300
+Ngài Screwllum, đây là đợt tấn công được ủ mưu từ trước...
+
+2
+00:00:07,633 --> 00:00:14,500
+Kết luận: Mục tiêu của kẻ địch là Trạm Không Gian. Nhưng chúng ta vẫn chưa tìm ra cách thức của chúng.
+
+3
+00:00:15,266 --> 00:00:16,000
+Đúng vậy.
+
+4
+00:00:17,200 --> 00:00:19,066
+Đây cũng là lý do chúng ta cần {F#cô ấy}{M#anh ấy}.
+
+5
+00:00:22,200 --> 00:00:24,866
+Trước khi con rối của Herta bị phục kích, người sau cùng gặp nó...
+
+6
+00:00:25,900 --> 00:00:27,066
+Chính là {F#cô ấy}{M#anh ấy}.
+
+7
+00:00:33,900 --> 00:00:35,000
+Anh là...?
+
+8
+00:00:36,966 --> 00:00:41,000
+Vị này là đại diện học thuật của công ty, Dr. Ratio thuộc Hội Trí Thức.
+
+9
+00:00:43,433 --> 00:00:48,200
+Dù gì {F#cô ấy}{M#anh ấy} cũng vừa hồi phục, đầu óc vẫn chưa tỉnh táo, cần...
+
+10
+00:00:48,733 --> 00:00:49,833
+Một vài nhắc nhở.
+

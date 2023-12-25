@@ -1,0 +1,40 @@
+﻿1
+00:00:04,433 --> 00:00:07,300
+Tornillum, este ataque fue premeditado...
+
+2
+00:00:07,633 --> 00:00:14,500
+Conclusión: Su objetivo era la Estación Espacial, pero sus estrategias todavía son desconocidas...
+
+3
+00:00:15,266 --> 00:00:16,000
+Correcto.
+
+4
+00:00:17,200 --> 00:00:19,066
+Y por eso l{F#a}{M#o} necesitamos.
+
+5
+00:00:22,200 --> 00:00:24,866
+La última persona que vio a la marioneta de Herta antes del ataque...
+
+6
+00:00:25,900 --> 00:00:27,066
+... fue {F#ella}{M#él}.
+
+7
+00:00:33,900 --> 00:00:35,000
+¿Y tú eres...?
+
+8
+00:00:36,966 --> 00:00:41,000
+Es el Dr. Ratio de la Sociedad del Conocimiento, un representante de la Corporación.
+
+9
+00:00:43,433 --> 00:00:48,200
+Acaba de despertar. Está desorientad{F#a}{M#o}, puede que necesite...
+
+10
+00:00:48,733 --> 00:00:49,833
+... algunas indicaciones.
+

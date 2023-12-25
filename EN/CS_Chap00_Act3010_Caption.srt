@@ -1,0 +1,12 @@
+﻿1
+00:00:00,440 --> 00:00:06,120
+Heritor Newsflash! Good evening, Madam Herta fans! This is an urgent broadcast.
+
+2
+00:00:06,840 --> 00:00:17,440
+The great Madam Herta, member <unbreak>83</unbreak> of the Genius Society, has been targeted in an attack at the space station. Her current whereabouts are unknown, with no group having stepped forward to claim responsibility.
+
+3
+00:00:18,320 --> 00:00:24,600
+Many Heritors are upset at the ineptitude of upper management, having issued strong protest and condemnation.
+

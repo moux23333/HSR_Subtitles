@@ -1,0 +1,12 @@
+﻿1
+00:00:00,440 --> 00:00:06,120
+Noticias para los seguidores de la señora Herta: ¡Oigan, Hertederos! ¡Buenas tardes! Esta es una transmisión urgente.
+
+2
+00:00:06,840 --> 00:00:17,440
+La gran señora Herta, miembro n.º <unbreak>83</unbreak> del Círculo de Genios, fue el objetivo de un ataque a la Estación Espacial y permanece en paradero desconocido desde entonces. Por el momento, nadie se ha hecho responsable de su desaparición.
+
+3
+00:00:18,320 --> 00:00:24,600
+Por lo tanto, muchos Hertederos están molestos por la ineptitud de la gerencia y expresaron enérgicas quejas e inquietudes.
+

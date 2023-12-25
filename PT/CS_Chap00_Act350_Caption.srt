@@ -1,0 +1,36 @@
+﻿1
+00:00:05,700 --> 00:00:06,066
+Aqui...
+
+2
+00:00:06,733 --> 00:00:07,800
+um movimento genial!
+
+3
+00:00:09,366 --> 00:00:10,633
+E como você vai contra-atacá-lo?
+
+4
+00:00:11,166 --> 00:00:13,966
+*suspiro* Apenas um idiota faria uma pergunta dessas.
+
+5
+00:00:15,266 --> 00:00:16,200
+É só mover isso para cá...
+
+6
+00:00:27,300 --> 00:00:29,066
+Você parece {F#irritada}{M#irritado}.
+
+7
+00:00:30,433 --> 00:00:31,200
+Algum problema?
+
+8
+00:00:35,666 --> 00:00:36,566
+Se esse é o caso...
+
+9
+00:00:37,166 --> 00:00:38,066
+...é melhor você começar a pensar.
+

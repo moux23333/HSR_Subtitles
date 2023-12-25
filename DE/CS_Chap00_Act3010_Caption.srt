@@ -1,0 +1,12 @@
+﻿1
+00:00:00,440 --> 00:00:06,120
+Eilmeldung für Fans von Frau Herta – hallo, Heritors! Guten Abend! Dies ist eine Eilmeldung!
+
+2
+00:00:06,840 --> 00:00:17,440
+Die großartige Frau Herta, Mitglied Nr. <unbreak>83</unbreak> der Geniusgesellschaft, war das Ziel eines Anschlags auf die Raumstation und gilt seitdem als vermisst. Bisher hat sich noch keine Gruppe zu dem Anschlag bekannt.
+
+3
+00:00:18,320 --> 00:00:24,600
+Viele Heritors sind daher verärgert über die Unfähigkeit der Direktion und haben starke Beschwerden und Bedenken geäußert.
+

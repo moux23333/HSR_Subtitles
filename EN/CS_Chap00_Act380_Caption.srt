@@ -1,0 +1,40 @@
+﻿1
+00:00:04,433 --> 00:00:07,300
+Mr. Screwllum, this was a premeditated attack...
+
+2
+00:00:07,633 --> 00:00:14,500
+Conclusion: Their target was the space station. But their strategies... are still unknown to us.
+
+3
+00:00:15,266 --> 00:00:16,000
+That's right.
+
+4
+00:00:17,200 --> 00:00:19,066
+Which is precisely why we need {M#him}{F#her}.
+
+5
+00:00:22,200 --> 00:00:24,866
+The last one to lay eyes on Herta's puppet before the attack...
+
+6
+00:00:25,900 --> 00:00:27,066
+...was {M#him}{F#her}.
+
+7
+00:00:33,900 --> 00:00:35,000
+And you are...?
+
+8
+00:00:36,966 --> 00:00:41,000
+This is Dr. Ratio of the Intelligentsia Guild — a delegate from the IPC.
+
+9
+00:00:43,433 --> 00:00:48,200
+{F#She's}{M#He's} only just woken up — dazed. {F#She}{M#He} may need...
+
+10
+00:00:48,733 --> 00:00:49,833
+...a few pointers.
+

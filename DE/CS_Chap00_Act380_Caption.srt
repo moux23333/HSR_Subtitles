@@ -1,0 +1,40 @@
+﻿1
+00:00:04,433 --> 00:00:07,300
+Herr Screwllum, das war ein vorsätzlicher Angriff ...
+
+2
+00:00:07,633 --> 00:00:14,500
+Fazit: Ihr Ziel war die Raumstation. Aber ihre Strategien ... sind uns noch unbekannt.
+
+3
+00:00:15,266 --> 00:00:16,000
+Richtig.
+
+4
+00:00:17,200 --> 00:00:19,066
+Genau deshalb brauchen wir {F#sie}{M#ihn}.
+
+5
+00:00:22,200 --> 00:00:24,866
+Die letzte Person, die Hertas Marionette vor dem Angriff zu Gesicht bekam ...
+
+6
+00:00:25,900 --> 00:00:27,066
+... war {F#sie}{M#er}.
+
+7
+00:00:33,900 --> 00:00:35,000
+Und du bist ...?
+
+8
+00:00:36,966 --> 00:00:41,000
+Das ist Dr. Wahrheit von der Intelligenzia-Gilde – ein Delegierter der IFK.
+
+9
+00:00:43,433 --> 00:00:48,200
+{F#Sie}{M#Er} ist gerade erst aufgewacht und noch benommen. {F#Sie}{M#Er} braucht vielleicht ...
+
+10
+00:00:48,733 --> 00:00:49,833
+... ein paar Tipps.
+

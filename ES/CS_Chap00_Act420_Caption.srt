@@ -1,0 +1,12 @@
+﻿1
+00:00:03,133 --> 00:00:05,700
+Una farsa, llena de preocupaciones triviales.
+
+2
+00:00:06,333 --> 00:00:07,600
+A fin de cuentas, solo son...
+
+3
+00:00:08,500 --> 00:00:09,933
+... mentes mediocres.
+

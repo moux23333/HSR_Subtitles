@@ -1,0 +1,40 @@
+﻿1
+00:00:04,433 --> 00:00:07,300
+Monsieur Screwllum, il s'agit d'une attaque préméditée...
+
+2
+00:00:07,633 --> 00:00:14,500
+Conclusion : leur cible était la station spatiale. Leur stratégie cependant... m'échappe encore.
+
+3
+00:00:15,266 --> 00:00:16,000
+Exactement.
+
+4
+00:00:17,200 --> 00:00:19,066
+Voilà la raison pour laquelle nous avons besoin {F#d'elle}{M#de lui}.
+
+5
+00:00:22,200 --> 00:00:24,866
+La dernière personne ayant vu la marionnette de Herta avant l'attaque...
+
+6
+00:00:25,900 --> 00:00:27,066
+... était cette personne.
+
+7
+00:00:33,900 --> 00:00:35,000
+Et vous êtes...?
+
+8
+00:00:36,966 --> 00:00:41,000
+Dr Ratio, de la Guilde de l'intelligentsia. Un délégué de la CPI.
+
+9
+00:00:43,433 --> 00:00:48,200
+{F#Elle}{M#Il} vient de se réveiller, {F#toute}{M#tout} {F#déboussolée}{M#déboussolé}. {F#Elle}{M#Il} pourrait avoir besoin de...
+
+10
+00:00:48,733 --> 00:00:49,833
+... quelques conseils.
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:03,133 --> 00:00:05,700
+A farce, full of trivial concerns.
+
+2
+00:00:06,333 --> 00:00:07,600
+Ultimately, they're just...
+
+3
+00:00:08,500 --> 00:00:09,933
+...mediocre minds.
+

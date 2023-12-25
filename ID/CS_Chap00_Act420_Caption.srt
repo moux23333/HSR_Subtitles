@@ -1,0 +1,12 @@
+﻿1
+00:00:03,133 --> 00:00:05,700
+Sebuah sandiwara, yang penuh dengan masalah remeh.
+
+2
+00:00:06,333 --> 00:00:07,600
+Pada akhirnya, mereka hanyalah ...
+
+3
+00:00:08,500 --> 00:00:09,933
+pemikiran-pemikiran awam.
+

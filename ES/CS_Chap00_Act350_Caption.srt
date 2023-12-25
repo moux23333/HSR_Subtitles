@@ -1,0 +1,36 @@
+﻿1
+00:00:05,700 --> 00:00:06,066
+Mira...
+
+2
+00:00:06,733 --> 00:00:07,800
+¡Una jugada genial!
+
+3
+00:00:09,366 --> 00:00:10,633
+¿Cómo planeas responder?
+
+4
+00:00:11,166 --> 00:00:13,966
+Ay, solo un idiota haría una pregunta como esa.
+
+5
+00:00:15,266 --> 00:00:16,200
+Aquí...
+
+6
+00:00:27,300 --> 00:00:29,066
+Parece que algo te preocupa.
+
+7
+00:00:30,433 --> 00:00:31,200
+¿Tienes algún problema?
+
+8
+00:00:35,666 --> 00:00:36,566
+En ese caso...
+
+9
+00:00:37,166 --> 00:00:38,066
+... busca una solución.
+

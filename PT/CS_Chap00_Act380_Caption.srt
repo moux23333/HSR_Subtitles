@@ -1,0 +1,40 @@
+﻿1
+00:00:04,433 --> 00:00:07,300
+Sr. Screwllum, isso foi um ataque premeditado...
+
+2
+00:00:07,633 --> 00:00:14,500
+Conclusão: o alvo deles era a Estação Espacial. Mas as estratégias deles... ainda são desconhecidas para nós.
+
+3
+00:00:15,266 --> 00:00:16,000
+Exatamente.
+
+4
+00:00:17,200 --> 00:00:19,066
+E é exatamente por isso que precisamos {F#dela}{M#dele}.
+
+5
+00:00:22,200 --> 00:00:24,866
+A última pessoa a ver a marionete de Herta antes deste ataque...
+
+6
+00:00:25,900 --> 00:00:27,066
+...foi {F#ela}{M#ele}.
+
+7
+00:00:33,900 --> 00:00:35,000
+E você é...?
+
+8
+00:00:36,966 --> 00:00:41,000
+Este é o Dr. Ratio da Guilda de Intelectuais, um delegado da CPI.
+
+9
+00:00:43,433 --> 00:00:48,200
+{F#Ela}{M#Ele} acabou de acordar, {F#atordoada}{M#atordoado}. {F#Ela}{M#Ele} pode precisar...
+
+10
+00:00:48,733 --> 00:00:49,833
+...de alguma direção.
+

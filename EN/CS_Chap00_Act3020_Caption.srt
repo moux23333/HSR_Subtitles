@@ -1,0 +1,24 @@
+﻿1
+00:00:00,640 --> 00:00:06,080
+Heritor Newsflash! This is an urgent broadcast! I repeat — this is an urgent broadcast!
+
+2
+00:00:07,240 --> 00:00:16,920
+News has finally emerged regarding the attack on Madam Herta! The Annihilation Gang has claimed responsibility for the incident and warned of further activity. The Guild has expressed utmost condemnation...
+
+3
+00:00:20,800 --> 00:00:27,520
+The gods of the starry skies have abandoned the world — they give no thought to the masses.
+
+4
+00:00:28,920 --> 00:00:36,280
+Only the wounded savior can bathe the world in the firelight of Destruction.
+
+5
+00:00:38,320 --> 00:00:46,320
+Yet always there are cowards trying in vain to reject their favor and escape the wounds.
+
+6
+00:00:47,400 --> 00:00:59,120
+Flee, then. Flee as far as you can! No matter the distance, annihilation will find you!
+
