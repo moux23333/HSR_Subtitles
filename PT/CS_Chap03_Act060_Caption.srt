@@ -1,0 +1,28 @@
+﻿1
+00:00:01,900 --> 00:00:05,100
+{F#Amiga}{M#Amigo}, o jogo já começou.
+
+2
+00:00:06,533 --> 00:00:07,900
+Permita-me te fazer uma oferta...
+
+3
+00:00:09,066 --> 00:00:10,400
+uma que não pode ser recusada.
+
+4
+00:00:12,133 --> 00:00:13,433
+Não há motivo para escolher outra coisa...
+
+5
+00:00:15,633 --> 00:00:16,800
+...e não há outra escolha.
+
+6
+00:00:17,433 --> 00:00:17,700
+Olá.
+
+7
+00:00:20,266 --> 00:00:23,233
+O que você está fazendo no meu quarto?
+

@@ -1,0 +1,20 @@
+﻿1
+00:00:00,500 --> 00:00:01,433
+Schau, {F#meine Freundin}{M#mein Freund}.
+
+2
+00:00:02,833 --> 00:00:04,866
+Das Spiel hat bereits begonnen.
+
+3
+00:00:07,433 --> 00:00:11,866
+Erlaube mir, dir ein Angebot zu machen ... Eines, das du nicht ablehnen kannst.
+
+4
+00:00:18,600 --> 00:00:20,300
+Kein Grund, etwas anderes zu wählen ...
+
+5
+00:00:21,500 --> 00:00:23,266
+... und keine andere Wahl.
+

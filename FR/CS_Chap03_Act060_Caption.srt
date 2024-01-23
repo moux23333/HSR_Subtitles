@@ -1,0 +1,28 @@
+﻿1
+00:00:01,900 --> 00:00:05,100
+Mon {F#amie}{M#ami}, la partie a déjà commencé.
+
+2
+00:00:06,533 --> 00:00:07,900
+Je vais te proposer un marché
+
+3
+00:00:09,066 --> 00:00:10,400
+que tu ne pourras pas refuser.
+
+4
+00:00:12,133 --> 00:00:13,433
+Il n'y a pas de raison que tu refuses...
+
+5
+00:00:15,633 --> 00:00:16,800
+Il n'y a pas le choix...
+
+6
+00:00:17,433 --> 00:00:17,700
+Salut.
+
+7
+00:00:20,266 --> 00:00:23,233
+Qu'est-ce que tu fais dans ma chambre ?
+

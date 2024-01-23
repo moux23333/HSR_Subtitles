@@ -1,0 +1,28 @@
+﻿1
+00:00:01,900 --> 00:00:05,100
+Amig{F#a}{M#o} mí{F#a}{M#o}, el juego ya ha comenzado.
+
+2
+00:00:06,533 --> 00:00:07,900
+Permíteme hacerte una propuesta.
+
+3
+00:00:09,066 --> 00:00:10,400
+Una que no podrás rechazar.
+
+4
+00:00:12,133 --> 00:00:13,433
+No hay razones para no elegirla...
+
+5
+00:00:15,633 --> 00:00:16,800
+Y no hay más opciones.
+
+6
+00:00:17,433 --> 00:00:17,700
+Hola.
+
+7
+00:00:20,266 --> 00:00:23,233
+¿Qué haces en mi habitación?
+

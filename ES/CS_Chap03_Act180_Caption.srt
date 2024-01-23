@@ -1,0 +1,20 @@
+﻿1
+00:00:00,500 --> 00:00:01,433
+Mira, amig{F#a}{M#o} mí{F#a}{M#o}
+
+2
+00:00:02,833 --> 00:00:04,866
+El juego ya ha comenzado.
+
+3
+00:00:07,433 --> 00:00:11,866
+Permíteme hacerte una propuesta, una que no podrás rechazar.
+
+4
+00:00:18,600 --> 00:00:20,300
+No hay razones para no elegirla...
+
+5
+00:00:21,500 --> 00:00:23,266
+Y no hay más opciones.
+

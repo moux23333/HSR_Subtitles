@@ -16,7 +16,7 @@ Không có lý do...
 
 5
 00:00:15,633 --> 00:00:16,800
-Cũng không có chọn lựa.
+Cũng không có sự lựa chọn nào khác.
 
 6
 00:00:17,433 --> 00:00:17,700
@@ -24,5 +24,5 @@ Này!
 
 7
 00:00:20,266 --> 00:00:23,233
-Mọi người đang làm gì trong phòng của tôi?
+Hai người, đang làm gì trong phòng của tôi?
 

@@ -1,0 +1,28 @@
+﻿1
+00:00:01,900 --> 00:00:05,100
+Teman, permainan sudah dimulai.
+
+2
+00:00:06,533 --> 00:00:07,900
+Aku akan membuat sebuah penawaran untukmu.
+
+3
+00:00:09,066 --> 00:00:10,400
+Sebuah penawaran yang tidak bisa kamu tolak.
+
+4
+00:00:12,133 --> 00:00:13,433
+Kamu tidak ada alasan ...
+
+5
+00:00:15,633 --> 00:00:16,800
+maupun pilihan lain.
+
+6
+00:00:17,433 --> 00:00:17,700
+Halo.
+
+7
+00:00:20,266 --> 00:00:23,233
+Apa yang sedang kamu lakukan di kamarku?
+
