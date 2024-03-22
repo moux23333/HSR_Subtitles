@@ -8,7 +8,7 @@ Permita-me te fazer uma oferta...
 
 3
 00:00:09,066 --> 00:00:10,400
-uma que não pode ser recusada.
+...uma que não pode ser recusada.
 
 4
 00:00:12,133 --> 00:00:13,433

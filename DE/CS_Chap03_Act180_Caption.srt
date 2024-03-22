@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,500 --> 00:00:01,433
-Schau, {F#meine Freundin}{M#mein Freund}.
+Schau, {F#liebe Freundin}{M#lieber Freund}.
 
 2
 00:00:02,833 --> 00:00:04,866

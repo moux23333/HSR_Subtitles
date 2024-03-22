@@ -8,7 +8,7 @@ Permíteme hacerte una propuesta.
 
 3
 00:00:09,066 --> 00:00:10,400
-Una que no podrás rechazar.
+Una que no puedes rechazar.
 
 4
 00:00:12,133 --> 00:00:13,433
@@ -24,5 +24,5 @@ Hola.
 
 7
 00:00:20,266 --> 00:00:23,233
-¿Qué haces en mi habitación?
+¿Qué están haciendo en mi habitación?
 

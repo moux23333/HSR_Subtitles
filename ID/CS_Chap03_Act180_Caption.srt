@@ -4,17 +4,17 @@ Lihat, teman.
 
 2
 00:00:02,833 --> 00:00:04,866
-Permainan telah dimulai.
+Permainan sudah dimulai.
 
 3
 00:00:07,433 --> 00:00:11,866
-Aku akan membuat sebuah penawaran untukmu — sebuah penawaran yang tidak bisa kamu tolak.
+Aku akan membuat sebuah penawaran untukmu — sebuah penawaran yang tidak akan bisa kamu tolak.
 
 4
 00:00:18,600 --> 00:00:20,300
-Kamu tidak ada alasan ...
+Kamu tidak punya alasan untuk menolak ...
 
 5
 00:00:21,500 --> 00:00:23,266
-maupun pilihan lain.
+dan juga tidak ada pilihan lain.
 

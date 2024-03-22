@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,500 --> 00:00:01,433
-Écoute, mon {F#amie}{M#ami}.
+Écoute, camarade.
 
 2
 00:00:02,833 --> 00:00:04,866
@@ -12,9 +12,9 @@ Je vais te proposer un marché, que tu ne pourras pas refuser.
 
 4
 00:00:18,600 --> 00:00:20,300
-Il n'y a pas de raison que tu refuses...
+Tu n'as pas de raison de refuser...
 
 5
 00:00:21,500 --> 00:00:23,266
-Il n'y a pas le choix...
+... et pas d'autre choix.
 

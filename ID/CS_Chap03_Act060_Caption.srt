@@ -8,15 +8,15 @@ Aku akan membuat sebuah penawaran untukmu.
 
 3
 00:00:09,066 --> 00:00:10,400
-Sebuah penawaran yang tidak bisa kamu tolak.
+Sebuah penawaran yang tidak akan bisa kamu tolak.
 
 4
 00:00:12,133 --> 00:00:13,433
-Kamu tidak ada alasan ...
+Kamu tidak punya alasan untuk menolak ...
 
 5
 00:00:15,633 --> 00:00:16,800
-maupun pilihan lain.
+dan juga tidak ada pilihan lain.
 
 6
 00:00:17,433 --> 00:00:17,700
@@ -24,5 +24,5 @@ Halo.
 
 7
 00:00:20,266 --> 00:00:23,233
-Apa yang sedang kamu lakukan di kamarku?
+Apa yang sedang kalian lakukan di kamarku?
 

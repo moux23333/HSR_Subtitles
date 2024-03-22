@@ -1,14 +1,14 @@
 ﻿1
 00:00:00,500 --> 00:00:01,433
-Nhìn xem, người bạn
+Nhìn đi, bạn của tôi.
 
 2
 00:00:02,833 --> 00:00:04,866
-Trò chơi đã bắt đầu.
+Trò chơi đã bắt đầu rồi.
 
 3
 00:00:07,433 --> 00:00:11,866
-Hãy làm một cuộc giao dịch với tôi! {F#Cô}{M#Anh} không thể từ chối..
+Hãy làm một cuộc giao dịch với tôi đi, một giao dịch mà {F#cô}{M#anh} không thể từ chối..
 
 4
 00:00:18,600 --> 00:00:20,300
@@ -16,5 +16,5 @@ Không có lý do...
 
 5
 00:00:21,500 --> 00:00:23,266
-...Cũng không có chọn lựa.
+...Cũng không có sự lựa chọn nào khác.
 

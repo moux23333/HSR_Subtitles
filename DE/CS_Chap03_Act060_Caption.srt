@@ -1,6 +1,6 @@
 ﻿1
 00:00:01,900 --> 00:00:05,100
-{F#Meine Freundin}{M#Mein Freund}, das Spiel hat bereits begonnen.
+{F#Liebe Freundin}{M#Lieber Freund}, das Spiel hat bereits begonnen.
 
 2
 00:00:06,533 --> 00:00:07,900
@@ -20,7 +20,7 @@ Kein Grund, etwas anderes zu wählen ...
 
 6
 00:00:17,433 --> 00:00:17,700
-Hallöchen.
+Hey.
 
 7
 00:00:20,266 --> 00:00:23,233

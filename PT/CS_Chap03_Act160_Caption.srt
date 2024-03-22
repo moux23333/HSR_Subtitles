@@ -20,5 +20,5 @@ Ou...
 
 6
 00:00:25,200 --> 00:00:26,433
-Todos vocês morrerão aqui.
+{M#Todos}{F#Todas} vocês morrerão aqui.
 
