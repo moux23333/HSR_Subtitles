@@ -1,0 +1,32 @@
+﻿1
+00:00:12,000 --> 00:00:13,166
+¿Ya se va?
+
+2
+00:00:14,600 --> 00:00:14,933
+Sí.
+
+3
+00:00:21,000 --> 00:00:23,733
+"Que la diosa Gaiathra cierre sus ojos tres veces...".
+
+4
+00:00:25,166 --> 00:00:27,766
+"Que tu sangre fluya eternamente...".
+
+5
+00:00:30,100 --> 00:00:31,700
+"Que tu viaje sea siempre pacífico...".
+
+6
+00:00:33,400 --> 00:00:36,166
+"... Y tus planes permanezcan ocultos para siempre".
+
+7
+00:00:38,666 --> 00:00:41,333
+Nos volveremos a encontrar bajo la aurora de Kakava.
+
+8
+00:00:46,500 --> 00:00:49,366
+Adiós, Kakavasha.
+

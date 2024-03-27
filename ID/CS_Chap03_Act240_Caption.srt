@@ -1,0 +1,32 @@
+﻿1
+00:00:12,000 --> 00:00:13,166
+Kamu mau pergi sekarang?
+
+2
+00:00:14,600 --> 00:00:14,933
+Ya.
+
+3
+00:00:21,000 --> 00:00:23,733
+"Semoga dewi Gaiathra menutup matanya tiga kali untukmu ...."
+
+4
+00:00:25,166 --> 00:00:27,766
+"Biarlah darahmu mengalir selamanya ...."
+
+5
+00:00:30,100 --> 00:00:31,700
+"Biarlah perjalananmu damai selamanya ...."
+
+6
+00:00:33,400 --> 00:00:36,166
+"Dan semoga tipu muslihatmu tidak pernah ketahuan."
+
+7
+00:00:38,666 --> 00:00:41,333
+Kita akan bertemu kembali di dalam aurora "Kakava" yang berkilauan.
+
+8
+00:00:46,500 --> 00:00:49,366
+Sampai jumpa, Kakavasha.
+
