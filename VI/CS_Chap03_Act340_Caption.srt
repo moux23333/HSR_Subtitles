@@ -1,0 +1,16 @@
+﻿1
+00:00:00,300 --> 00:00:02,366
+Ngày sáng và đêm tối có giống nhau không?
+
+2
+00:00:03,200 --> 00:00:05,666
+Người chính nghĩa và tội nhân có giống nhau không?
+
+3
+00:00:07,066 --> 00:00:08,900
+Nếu sinh ra đã yếu đuối,
+
+4
+00:00:10,066 --> 00:00:13,333
+vậy những kẻ yếu đuối nên tìm kiếm sự an ủi từ vị thần nào?
+

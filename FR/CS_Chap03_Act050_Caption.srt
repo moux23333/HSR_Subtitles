@@ -1,6 +1,6 @@
 ﻿1
 00:00:01,966 --> 00:00:05,900
-Ce que tu dois faire à présent, c'est prendre le temps de réfléchir à ce que cela signifie.
+Tu dois réfléchir à sa signification.
 
 2
 00:00:11,200 --> 00:00:11,766
@@ -12,5 +12,5 @@ Tu pourras retourner dans le monde éveillé.
 
 4
 00:00:18,500 --> 00:00:21,733
-Là où on trouvera les réponses à nos questions.
+C'est là que se trouvent les réponses.
 

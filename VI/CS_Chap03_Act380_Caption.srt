@@ -1,0 +1,28 @@
+﻿1
+00:00:03,966 --> 00:00:07,000
+Giấc mộng đẹp màu vàng kim bắt đầu xao động rồi.
+
+2
+00:00:09,300 --> 00:00:16,000
+Trong đêm dài sau này, có lẽ {F#cô}{M#anh} sẽ gặp rất nhiều trắc trở, chứng kiến rất nhiều bi kịch.
+
+3
+00:00:17,666 --> 00:00:22,600
+Cuối cùng, trong mắt chỉ còn lại hai màu đen và trắng.
+
+4
+00:00:24,400 --> 00:00:33,700
+Nhưng hãy tin, trong thế giới đen trắng đó sẽ có một chút màu đỏ thoáng qua, và khi {F#cô}{M#anh} đưa ra lựa chọn...
+
+5
+00:00:34,933 --> 00:00:36,700
+...Nó chắc chắn sẽ xuất hiện lần nữa.
+
+6
+00:00:54,966 --> 00:01:01,933
+Những gì {F#cô}{M#anh} phải làm là, suy nghĩ kỹ về ý nghĩa của nó, sau đó trở về với thế giới tỉnh táo.
+
+7
+00:01:07,900 --> 00:01:10,833
+Đó là nơi tất cả chúng ta tìm được câu trả lời.
+

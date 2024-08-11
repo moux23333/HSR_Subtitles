@@ -1,0 +1,16 @@
+﻿1
+00:00:00,300 --> 00:00:02,366
+Est-ce que l'obscurité et la lumière du jour sont équivalentes ?
+
+2
+00:00:03,200 --> 00:00:05,666
+Est-ce que les pécheurs et les justes sont égaux ?
+
+3
+00:00:07,066 --> 00:00:08,900
+Si quelqu'un est né faible,
+
+4
+00:00:10,066 --> 00:00:13,333
+vers quel dieu se tourner ?
+

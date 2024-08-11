@@ -1,6 +1,6 @@
 ﻿1
 00:00:02,933 --> 00:00:10,333
-Les dés en sont jetés... Mesdames et Messieurs, prêts à dévoiler vos cartes ?
+Les dés sont jetés... Mesdames et Messieurs, prêts à dévoiler vos cartes ?
 
 2
 00:00:12,066 --> 00:00:14,033

@@ -28,7 +28,7 @@ Lihat.
 
 8
 00:00:35,150 --> 00:00:38,583
-Dia sudah memperhatikanmu.
+"Dia" sudah memperhatikanmu.
 
 9
 00:01:06,683 --> 00:01:07,683

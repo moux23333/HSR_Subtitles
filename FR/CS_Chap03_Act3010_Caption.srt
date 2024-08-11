@@ -1,6 +1,6 @@
 ﻿1
 00:00:01,216 --> 00:00:11,100
-Ding dong ! Voilà venu le moment le plus exaltant et le plus romantique : le défi du public !
+Ding dong ! Voilà venu le moment le plus exaltant et grisant : le défi du public !
 
 2
 00:00:11,183 --> 00:00:22,233
@@ -16,5 +16,5 @@ Et si l'affaire en chambre close que la protectrice de la mémoire a préféré 
 
 5
 00:00:42,150 --> 00:00:51,350
-Le génie masqué, mademoiselle Sparkle, nous lance donc un défi ! Tous les indices sont en place... bonne chasse !
+Le génie masqué, Sparkle, vous lance donc un défi ! Tous les indices sont en place... bonne chasse !
 

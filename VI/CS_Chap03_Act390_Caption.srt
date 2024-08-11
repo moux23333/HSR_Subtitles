@@ -1,0 +1,12 @@
+﻿1
+00:00:08,500 --> 00:00:09,700
+...Âm nhạc?
+
+2
+00:00:16,500 --> 00:00:20,400
+Xem ra trong chương nhạc của "Trật Tự" đã xuất hiện một loại âm thanh khác...
+
+3
+00:00:25,800 --> 00:00:29,633
+Penacony chính âm thanh không hài hòa đầu tiên, và cũng là cuối cùng.
+

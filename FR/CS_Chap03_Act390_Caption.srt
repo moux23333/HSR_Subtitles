@@ -1,0 +1,12 @@
+﻿1
+00:00:08,500 --> 00:00:09,700
+... D'où vient cette musique ?
+
+2
+00:00:16,500 --> 00:00:20,400
+On dirait qu'il y a une nouvelle voix qui est apparue dans la symphonie de l'Ordre...
+
+3
+00:00:25,800 --> 00:00:29,633
+C'est la première et également la dernière note dissonante de Penacony.
+
