@@ -1,0 +1,20 @@
+﻿1
+00:00:01,000 --> 00:00:03,600
+Protejam o portão. Eles não podem entrar!
+
+2
+00:00:29,766 --> 00:00:30,100
+Rápido!
+
+3
+00:00:55,700 --> 00:00:58,500
+Esperei... por tanto tempo...
+
+4
+00:01:01,666 --> 00:01:13,066
+A minha primeira refeição após recuperar a liberdade será... a carne e o sangue dos meus semelhantes. Uma cena triste, de fato.
+
+5
+00:01:13,766 --> 00:01:19,066
+Faz muito tempo, comandante! Bem-vindo de volta.
+

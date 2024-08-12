@@ -1,0 +1,20 @@
+﻿1
+00:00:04,633 --> 00:00:05,633
+Qué raro...
+
+2
+00:00:06,233 --> 00:00:08,966
+No recuerdo haber inspeccionado las instalaciones de contención una segunda vez...
+
+3
+00:00:19,466 --> 00:00:20,000
+¡Cuidado!
+
+4
+00:00:25,800 --> 00:00:27,966
+¡Es una emergencia! ¡Que todos los oficiales se preparen para actuar!
+
+5
+00:00:28,300 --> 00:00:30,300
+¡Es una emergencia! ¡Que todos los oficiales se preparen para actuar!
+

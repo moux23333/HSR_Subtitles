@@ -1,0 +1,8 @@
+﻿1
+00:00:00,000 --> 00:00:04,160
+Ha sido un honor conocerte de esta manera.
+
+2
+00:00:04,640 --> 00:00:10,840
+El honor es mío. Gracias, Yunli.
+

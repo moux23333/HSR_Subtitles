@@ -1,0 +1,20 @@
+﻿1
+00:00:01,000 --> 00:00:03,600
+¡Protejan la entrada! ¡No podemos dejarlos pasar!
+
+2
+00:00:29,766 --> 00:00:30,100
+¡Deprisa!
+
+3
+00:00:55,700 --> 00:00:58,500
+He esperado... demasiado tiempo...
+
+4
+00:01:01,666 --> 00:01:13,066
+Mi primera comida tras recobrar la libertad... es la carne y la sangre de mis congéneres. Es realmente triste.
+
+5
+00:01:13,766 --> 00:01:19,066
+En verdad ha pasado mucho tiempo, Señor de la Guerra. Bienvenido de vuelta.
+

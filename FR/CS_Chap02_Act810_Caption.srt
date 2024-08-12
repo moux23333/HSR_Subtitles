@@ -1,0 +1,20 @@
+﻿1
+00:00:04,633 --> 00:00:05,633
+Étrange...
+
+2
+00:00:06,233 --> 00:00:08,966
+Je ne me souviens pas avoir vérifié les installations de confinement la deuxième fois...
+
+3
+00:00:19,466 --> 00:00:20,000
+Attention !
+
+4
+00:00:25,800 --> 00:00:27,966
+Urgence ! Que toutes les gardiennes se tiennent prêtes !
+
+5
+00:00:28,300 --> 00:00:30,300
+Urgence ! Que toutes les gardiennes se tiennent prêtes !
+

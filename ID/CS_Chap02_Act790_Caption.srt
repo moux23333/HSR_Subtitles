@@ -1,0 +1,12 @@
+﻿1
+00:00:02,466 --> 00:00:03,933
+Apa ini "muatan" IPC?
+
+2
+00:00:05,800 --> 00:00:10,800
+Dengar ya, kerusakan apa pun yang disebabkan oleh pemeriksaan akan aku laporkan ke IPC ....
+
+3
+00:00:16,166 --> 00:00:16,900
+Matikan.
+

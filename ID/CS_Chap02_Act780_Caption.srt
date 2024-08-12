@@ -1,0 +1,16 @@
+﻿1
+00:00:02,233 --> 00:00:02,833
+Gawat!
+
+2
+00:00:23,433 --> 00:00:24,800
+Uhh ... Terima kasih atas bantuannya.
+
+3
+00:00:26,333 --> 00:00:27,800
+Maaf, tidak ada waktu untuk mengobrol ....
+
+4
+00:00:28,200 --> 00:00:29,200
+Bisakah kamu kembalikan ....
+

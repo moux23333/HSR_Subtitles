@@ -1,0 +1,24 @@
+﻿1
+00:00:00,500 --> 00:00:01,366
+...Saúde!
+
+2
+00:00:11,400 --> 00:00:18,566
+Tomar uma decisão dessas... Essa passarinha não fica devendo em nada para seu irmão!
+
+3
+00:00:19,166 --> 00:00:22,800
+Tudo está bem quando acaba bem... certo?
+
+4
+00:00:23,533 --> 00:00:26,633
+Mas você esqueceu alguém, {F#minha amiga}{M#meu amigo} de cabelo cinza?
+
+5
+00:00:28,333 --> 00:00:30,366
+Eu coloquei uma bomba nessa nave.
+
+6
+00:00:30,566 --> 00:00:32,633
+Você tem dez minutos pra achar, é melhor correr!
+

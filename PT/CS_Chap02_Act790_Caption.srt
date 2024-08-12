@@ -1,0 +1,12 @@
+﻿1
+00:00:02,466 --> 00:00:03,933
+Esse é o produto da CPI?
+
+2
+00:00:05,800 --> 00:00:10,800
+Escutem, qualquer dano causado pelas inspeções vão ser registrados na CPI...
+
+3
+00:00:16,166 --> 00:00:16,900
+Desligue isso.
+

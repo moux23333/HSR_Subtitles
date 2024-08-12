@@ -1,0 +1,20 @@
+﻿1
+00:00:04,633 --> 00:00:05,633
+Strange...
+
+2
+00:00:06,233 --> 00:00:08,966
+I don't remember checking the containment facilities the second time...
+
+3
+00:00:19,466 --> 00:00:20,000
+Watch out!
+
+4
+00:00:25,800 --> 00:00:27,966
+Emergency! All wardens prepare for action!
+
+5
+00:00:28,300 --> 00:00:30,300
+Emergency! All wardens prepare for action!
+

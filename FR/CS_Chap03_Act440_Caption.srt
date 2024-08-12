@@ -1,0 +1,24 @@
+﻿1
+00:00:00,500 --> 00:00:01,366
+Santé !
+
+2
+00:00:11,400 --> 00:00:18,566
+Prendre une telle décision... Ce petit oiseau est aussi doué que son frère !
+
+3
+00:00:19,166 --> 00:00:22,800
+Tout est bien qui finit bien... pas vrai ?
+
+4
+00:00:23,533 --> 00:00:26,633
+Mais tu n'aurais pas oublié quelqu'un, mon {F#amie}{M#ami} aux cheveux d'argent ?
+
+5
+00:00:28,333 --> 00:00:30,366
+J'ai posé une bombe à bord de ce vaisseau.
+
+6
+00:00:30,566 --> 00:00:32,633
+Tu as dix minutes pour la trouver, alors dépêche-toi !
+

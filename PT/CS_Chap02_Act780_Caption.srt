@@ -1,0 +1,16 @@
+﻿1
+00:00:02,233 --> 00:00:02,833
+Você não sabe disso!
+
+2
+00:00:23,433 --> 00:00:24,800
+Uh... Obrigado pela ajuda.
+
+3
+00:00:26,333 --> 00:00:27,800
+Desculpe, não tenho tempo para conversar...
+
+4
+00:00:28,200 --> 00:00:29,200
+Você poderia me devolver a minha...
+
