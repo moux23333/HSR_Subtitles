@@ -1,0 +1,8 @@
+﻿1
+00:00:05,466 --> 00:00:09,900
+I've had enough... Time to finish this little game!
+
+2
+00:00:14,633 --> 00:00:15,600
+...What's happening?
+
