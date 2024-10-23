@@ -1,0 +1,28 @@
+﻿1
+00:00:00,366 --> 00:00:01,400
+Je suis ici pour donner un coup de main.
+
+2
+00:00:02,500 --> 00:00:03,566
+Le cours est terminé.
+
+3
+00:00:04,966 --> 00:00:05,533
+Ah !
+
+4
+00:00:24,966 --> 00:00:27,333
+Ta~ ta~ ta~ ta~
+
+5
+00:00:36,966 --> 00:00:38,300
+Qu'est-ce que tu dis de ça ?
+
+6
+00:00:40,800 --> 00:00:43,566
+Bana bana... Ça ne suffit pas, mais il n'y a rien qu'on puisse faire...
+
+7
+00:00:43,566 --> 00:00:44,866
+Où est-ce que tu vas ? On fait l'école buissonnière ?
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:01,500 --> 00:00:06,599
+Bana bana bana... alunos, está na hora da última aulanana.
+
+2
+00:00:09,933 --> 00:00:11,666
+O nome dessa aula é...
+
+3
+00:00:12,699 --> 00:00:14,433
+Sonhos!
+

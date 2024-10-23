@@ -1,0 +1,16 @@
+﻿1
+00:00:00,466 --> 00:00:04,000
+Cette bananaleçon est un échec...
+
+2
+00:00:04,733 --> 00:00:11,000
+Les rêves inatteignables sont comme... la plus haute des bananAÏE !
+
+3
+00:00:41,266 --> 00:00:42,233
+Mission accomplie !
+
+4
+00:00:42,866 --> 00:00:43,099
+Argh !
+

@@ -1,0 +1,12 @@
+﻿1
+00:00:01,500 --> 00:00:06,599
+Bana bana bana... Chers étudiants, c'est l'heure de votre dernière bananaleçon.
+
+2
+00:00:09,933 --> 00:00:11,666
+Le cours d'aujourd'hui porte sur...
+
+3
+00:00:12,699 --> 00:00:14,433
+... les rêves !
+
