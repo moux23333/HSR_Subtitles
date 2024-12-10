@@ -8,7 +8,7 @@ Semua penumpang, harap kembali ke tempat dudukmu.
 
 3
 00:00:07,500 --> 00:00:09,600
-Kereta akan segera memulai Jump.
+Kereta akan segera memulai Jump!
 
 4
 00:00:09,630 --> 00:00:11,670

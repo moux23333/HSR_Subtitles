@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,483 --> 00:00:02,466
-Kereta akan segera memulai Jump.
+Kereta akan segera memulai Jump!
 
 2
 00:00:02,933 --> 00:00:03,500
