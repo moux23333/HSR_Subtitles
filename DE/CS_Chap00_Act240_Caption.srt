@@ -1,8 +1,0 @@
-﻿1
-00:00:07,466 --> 00:00:09,366
-Das Behältnis ist bereit.
-
-2
-00:00:09,583 --> 00:00:10,866
-Du triffst die Entscheidung.
-

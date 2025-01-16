@@ -1,0 +1,32 @@
+﻿1
+00:00:00,200 --> 00:00:09,300
+The sound of collapse and cries... They are sounds I'll never forget — the haunting echoes of the black tide.
+
+2
+00:00:09,700 --> 00:00:15,800
+At that time, I cowered in the temple, waiting for {RUBY_B#Death}Thanatos{RUBY_E#} to lead me from my bitterness to their river.
+
+3
+00:00:16,200 --> 00:00:24,800
+But... what arrived was a group of fugitives, guided by Oronyx, seeking an oracle from the Holy Maiden.
+
+4
+00:00:25,200 --> 00:00:34,800
+O destiny, I scream at thee — To hell with the Holy Maiden! I am nothing but a blind woman now!
+
+5
+00:00:35,200 --> 00:00:37,800
+Yet...
+
+6
+00:00:38,200 --> 00:00:46,800
+Like the priests, I forged an oracle. In the darkness, I clung to my childhood memories, barely piecing together the path that would lead to Okhema.
+
+7
+00:00:47,200 --> 00:00:54,300
+Then, I pointed to the sky and said to them —
+
+8
+00:00:54,700 --> 00:01:10,800
+Move ahead! The Time Titan has delivered a prophecy. We shall overcome the barriers of death and reach the holy city of Kephale!
+

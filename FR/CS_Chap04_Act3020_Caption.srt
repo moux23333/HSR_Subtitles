@@ -1,0 +1,32 @@
+﻿1
+00:00:00,200 --> 00:00:09,300
+Le bruit de la chute et des cris... Je n'oublierai jamais ces sons, les échos terrifiants de la Marée noire.
+
+2
+00:00:09,700 --> 00:00:15,800
+À l'époque, je m'étais réfugiée dans le temple pour attendre que {RUBY_B#la Mort}Thanatos{RUBY_E#} me guide de mon amertume à sa rivière.
+
+3
+00:00:16,200 --> 00:00:24,800
+Mais tout ce que j'ai vu, c'était un groupe de fugitifs guidés par Oronyx, à la recherche d'un oracle de la Demoiselle.
+
+4
+00:00:25,200 --> 00:00:34,800
+Ô, destinée, entendez mes cris. Au diable la Demoiselle ! Je ne suis plus qu'une aveugle !
+
+5
+00:00:35,200 --> 00:00:37,800
+Et pourtant...
+
+6
+00:00:38,200 --> 00:00:46,800
+Tout comme les prêtres, j'ai forgé un oracle. Dans l'obscurité, je me suis rattachée à mes souvenirs d'enfance et j'ai réussi tant bien que mal à retrouver la route vers Okhema.
+
+7
+00:00:47,200 --> 00:00:54,300
+Puis j'ai pointé le doigt en direction du ciel et j'ai crié :
+
+8
+00:00:54,700 --> 00:01:10,800
+« En avant ! La prophétie du Titan du Temps a été révélée. Nous surmonterons les obstacles de la mort et atteindrons la ville sainte de Képhale ! »
+

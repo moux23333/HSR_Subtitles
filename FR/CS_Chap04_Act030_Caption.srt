@@ -1,0 +1,8 @@
+﻿1
+00:00:12,900 --> 00:00:13,199
+Attention !
+
+2
+00:00:14,550 --> 00:00:15,766
+En voilà quelque chose d'intéressant.
+

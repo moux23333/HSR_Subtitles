@@ -1,0 +1,32 @@
+﻿1
+00:00:00,200 --> 00:00:09,300
+Der Klang von Zusammenbruch und Geschrei ... Das sind Klänge, die ich niemals vergessen werde. Die schrecklichen Echos der Schwarzen Flut.
+
+2
+00:00:09,700 --> 00:00:15,800
+Damals habe ich zusammengekauert im Tempel darauf gewartet, dass {RUBY_B#Der Tod}Thanatos{RUBY_E#} mich aus meiner Bitternis zu ihrem Fluss führt.
+
+3
+00:00:16,200 --> 00:00:24,800
+Doch was kam ... war stattdessen eine Gruppe Flüchtlinge, von Oronyx geleitet, um die Heilige Maid um einen Orakelspruch zu ersuchen.
+
+4
+00:00:25,200 --> 00:00:34,800
+Oh Schicksal, höre meinen Fluch! Die Heilige Maid kann mir gestohlen bleiben! Jetzt bin ich nichts mehr als eine blinde Frau!
+
+5
+00:00:35,200 --> 00:00:37,800
+Dennoch ...
+
+6
+00:00:38,200 --> 00:00:46,800
+Ich sprach als Orakel, wie die Priester. In der Dunkelheit klammerte ich mich an die Erinnerungen aus meiner Kindheit und konnte gerade noch einen Pfad zusammenstückeln, der nach Okhema führen würde.
+
+7
+00:00:47,200 --> 00:00:54,300
+Dann deutete ich zum Himmel und sagte zu ihnen:
+
+8
+00:00:54,700 --> 00:01:10,800
+Vorwärts! Die Titanin der Zeit hat eine Prophezeiung ausgesprochen. Wir werden die Hürden des Todes überwinden und die Heilige Stadt Kephales erreichen!
+

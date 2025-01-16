@@ -1,0 +1,32 @@
+﻿1
+00:00:00,200 --> 00:00:09,300
+El sonido del colapso y de los llantos... Son sonidos que nunca olvidaré, los ecos inquietantes de la marea oscura.
+
+2
+00:00:09,700 --> 00:00:15,800
+Recuerdo que, por entonces, me refugiaba en el templo, con la esperanza de que {RUBY_B#la Muerte}Tánatos{RUBY_E#} me sacara de la tristeza y me recibiera en su río.
+
+3
+00:00:16,200 --> 00:00:24,800
+Pero, en vez de eso, llegó un grupo de fugitivos, guiados por Oronix, que buscaban el oráculo de la doncella.
+
+4
+00:00:25,200 --> 00:00:34,800
+Oh, destino, oye mi bramido: ¡al diablo con la doncella! ¡Ahora no soy más que una ciega!
+
+5
+00:00:35,200 --> 00:00:37,800
+Y, sin embargo...
+
+6
+00:00:38,200 --> 00:00:46,800
+Igual que los sacerdotes, inventé un oráculo. En la oscuridad, me aferré a los recuerdos de mi infancia. Apenas podía recordar el camino hacia Oqueima.
+
+7
+00:00:47,200 --> 00:00:54,300
+Luego apunté con el dedo al cielo y grité:{SPACE}
+
+8
+00:00:54,700 --> 00:01:10,800
+¡Avancen! El Titán del Tiempo ha entregado una profecía. ¡Superaremos las barreras de la muerte y llegaremos a la ciudad sagrada de Kefale!
+
