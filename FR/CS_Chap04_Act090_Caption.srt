@@ -1,6 +1,6 @@
 ﻿1
 00:00:08,433 --> 00:00:10,400
-Cet endroit est le cœur de ce monde.
+Vous vous trouvez désormais au cœur de ce monde.
 
 2
 00:00:15,466 --> 00:00:18,800
