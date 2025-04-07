@@ -1,0 +1,36 @@
+﻿1
+00:00:00,566 --> 00:00:03,500
+My teacher, Anaxagoras,
+
+2
+00:00:05,099 --> 00:00:07,633
+grant me the wisdom of all things.
+
+3
+00:00:08,766 --> 00:00:10,300
+I call upon thee...
+
+4
+00:00:11,983 --> 00:00:14,216
+The stripped {RUBY_B#Netherwing}Netherwing's{RUBY_E#} corpse —
+
+5
+00:00:24,233 --> 00:00:28,500
+Rises from the earth, falls from the sky.
+
+6
+00:00:31,350 --> 00:00:36,166
+As above, so below...
+
+7
+00:00:39,116 --> 00:00:44,883
+This is the greatest power of all powers, unstoppable in this world.
+
+8
+00:00:49,483 --> 00:00:52,283
+The great work that commands all death,
+
+9
+00:00:54,450 --> 00:00:57,566
+I shall grant you embrace!
+

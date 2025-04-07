@@ -1,0 +1,36 @@
+﻿1
+00:00:00,566 --> 00:00:03,500
+Meu professor, Anaxágoras,
+
+2
+00:00:05,099 --> 00:00:07,633
+me conceda a sabedoria de todas as coisas.
+
+3
+00:00:08,766 --> 00:00:10,300
+Eu invoco-te...
+
+4
+00:00:11,983 --> 00:00:14,216
+Os restos do cadáver do {RUBY_B#Dragão Abissal}Dragão Morto{RUBY_E#}
+
+5
+00:00:24,233 --> 00:00:28,500
+Nasce da terra, cai do céu.
+
+6
+00:00:31,350 --> 00:00:36,166
+Assim na terra, como no céu...
+
+7
+00:00:39,116 --> 00:00:44,883
+Este é o maior poder de todos, e não há nada nesse mundo que o pare.
+
+8
+00:00:49,483 --> 00:00:52,283
+A grande obra-prima que comanda toda a morte,
+
+9
+00:00:54,450 --> 00:00:57,566
+Eu te concederei o meu abraço!
+

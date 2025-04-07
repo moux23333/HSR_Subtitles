@@ -1,0 +1,24 @@
+﻿1
+00:00:01,183 --> 00:00:02,950
+Se prepare, fique {F#paradinha}{M#paradinho}...
+
+2
+00:00:07,799 --> 00:00:09,016
+Ei! Sua vez.
+
+3
+00:00:12,949 --> 00:00:15,066
+Relaxa. Afinal...
+
+4
+00:00:16,733 --> 00:00:18,183
+Tudo vai acabar num piscar de olhos!
+
+5
+00:00:25,816 --> 00:00:26,383
+Pronto.
+
+6
+00:00:27,266 --> 00:00:27,866
+Tchau, tchau!
+
