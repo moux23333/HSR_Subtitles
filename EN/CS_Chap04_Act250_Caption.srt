@@ -12,7 +12,7 @@ I call upon thee...
 
 4
 00:00:11,983 --> 00:00:14,216
-The stripped {RUBY_B#Netherwing}Netherwing's{RUBY_E#} corpse —
+The stripped {RUBY_B#Netherwing}dead dragon's{RUBY_E#} corpse —
 
 5
 00:00:24,233 --> 00:00:28,500

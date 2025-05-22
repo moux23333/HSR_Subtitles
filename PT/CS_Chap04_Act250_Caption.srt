@@ -12,7 +12,7 @@ Eu invoco-te...
 
 4
 00:00:11,983 --> 00:00:14,216
-Os restos do cadáver do {RUBY_B#Dragão Abissal}Dragão Morto{RUBY_E#}
+Os restos do cadáver do {RUBY_B#Dragão Abissal}dragão morto{RUBY_E#}
 
 5
 00:00:24,233 --> 00:00:28,500
@@ -20,7 +20,7 @@ Nasce da terra, cai do céu.
 
 6
 00:00:31,350 --> 00:00:36,166
-Assim na terra, como no céu...
+Como é em cima, assim é embaixo...
 
 7
 00:00:39,116 --> 00:00:44,883

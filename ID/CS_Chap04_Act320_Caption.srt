@@ -1,0 +1,12 @@
+﻿1
+00:00:05,266 --> 00:00:06,316
+Wahai jembatan pelangi ....
+
+2
+00:00:07,333 --> 00:00:10,633
+Tolong bimbing kami untuk naik ke langit sekali lagi.
+
+3
+00:00:20,516 --> 00:00:23,233
+Teman-teman, ayo kita terbang bersama!
+

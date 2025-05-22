@@ -1,0 +1,12 @@
+﻿1
+00:00:05,266 --> 00:00:06,316
+O Regenbogenbrücke ...
+
+2
+00:00:07,333 --> 00:00:10,633
+... Bitte führe uns zurück in die Lüfte.
+
+3
+00:00:20,516 --> 00:00:23,233
+Freunde, lasst uns gemeinsam fliegen.
+

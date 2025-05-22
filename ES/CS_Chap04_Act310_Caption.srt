@@ -1,8 +1,144 @@
 ﻿1
-00:00:00,850 --> 00:00:01,750
-¡Ay! ¡Oye!
+00:00:00,375 --> 00:00:01,833
+¡No quiero morir!
 
 2
-00:00:13,700 --> 00:00:15,266
-¡Que tengan un buen día!
+00:00:02,083 --> 00:00:03,208
+T-te lo ruego...
+
+3
+00:00:03,541 --> 00:00:04,666
+¡Déjame ir!
+
+4
+00:00:05,125 --> 00:00:06,041
+No quiero morir.
+
+5
+00:00:06,750 --> 00:00:08,791
+¡No quiero tu misericordia!
+
+6
+00:00:10,000 --> 00:00:11,041
+¡No quiero...!
+
+7
+00:00:21,250 --> 00:00:23,166
+Odio... estas manos heladas.
+
+8
+00:01:13,541 --> 00:01:14,541
+Adelante.
+
+9
+00:01:14,958 --> 00:01:16,458
+Termina con su sufrimiento.
+
+10
+00:01:33,291 --> 00:01:35,791
+La Muerte ha bendecido tus manos.
+
+11
+00:01:36,833 --> 00:01:39,333
+Solo tú puedes traerles la paz.
+
+12
+00:02:10,125 --> 00:02:11,833
+Acepta la muerte.
+
+13
+00:02:12,541 --> 00:02:14,375
+Camina a su lado.
+
+14
+00:04:20,333 --> 00:04:23,541
+¿Eres tú, Castorice?
+
+15
+00:04:29,000 --> 00:04:32,500
+Ya se han ido todos...
+
+16
+00:04:33,791 --> 00:04:36,250
+Respondieron a la llamada de la Muerte
+
+17
+00:04:37,250 --> 00:04:40,041
+y cruzaron a su reino.
+
+18
+00:04:43,083 --> 00:04:44,958
+Ahora...
+
+19
+00:04:44,958 --> 00:04:47,041
+me toca a mí.
+
+20
+00:04:51,041 --> 00:04:52,916
+No tengo miedo
+
+21
+00:04:53,500 --> 00:04:55,833
+pero me arrepiento... de algo.
+
+22
+00:04:57,125 --> 00:05:00,125
+Has visto a tanta gente dejar este mundo...
+
+23
+00:05:01,208 --> 00:05:03,041
+Seguro que te has sentido
+
+24
+00:05:03,041 --> 00:05:04,666
+muy sola.
+
+25
+00:05:07,250 --> 00:05:10,666
+Seguro que querías abrazarlos con todas tus fuerzas
+
+26
+00:05:11,291 --> 00:05:13,875
+antes de que se fueran.
+
+27
+00:05:18,125 --> 00:05:18,833
+No puedo...
+
+28
+00:05:19,958 --> 00:05:21,833
+Estas manos...
+
+29
+00:05:21,833 --> 00:05:23,083
+Están tan frías...
+
+30
+00:05:34,000 --> 00:05:36,458
+Castorice, tus manos...
+
+31
+00:05:36,458 --> 00:05:38,875
+son tan cálidas
+
+32
+00:05:40,291 --> 00:05:42,625
+como las de cualquier otra persona.
+
+33
+00:05:43,750 --> 00:05:46,000
+No te contengas
+
+34
+00:05:47,583 --> 00:05:49,666
+y dame un abrazo.
+
+35
+00:06:51,708 --> 00:06:53,041
+Unas manos así...
+
+36
+00:06:54,000 --> 00:06:56,166
+¿De verdad pueden ser cálidas?
 
