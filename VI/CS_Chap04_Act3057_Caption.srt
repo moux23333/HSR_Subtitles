@@ -1,0 +1,4 @@
+﻿1
+00:00:06,500 --> 00:00:08,833
+Cách ngày thế giới hủy diệt còn 0 lần vòng lặp vĩnh cửu nữa
+

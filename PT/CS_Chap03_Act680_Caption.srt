@@ -1,0 +1,20 @@
+﻿1
+00:00:17,916 --> 00:00:19,208
+Com o Selo de Comando, eu ordeno que você...
+
+2
+00:00:20,791 --> 00:00:23,583
+Libere seu Fantasma Nobre! Estilhace o Santo Graal!
+
+3
+00:00:28,250 --> 00:00:28,958
+<i>Gáe Bolg</i>!
+
+4
+00:00:29,500 --> 00:00:30,750
+Como ordenar, {F#Mestra}{M#Mestre}!
+
+5
+00:00:32,500 --> 00:00:36,750
+Excalibur...!
+

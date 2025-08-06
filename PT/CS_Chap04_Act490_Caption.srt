@@ -1,0 +1,28 @@
+﻿1
+00:00:00,583 --> 00:00:04,125
+Pegue... Tudo que eu possuo.
+
+2
+00:00:06,083 --> 00:00:09,083
+Continue queimando.
+
+3
+00:00:11,291 --> 00:00:13,750
+Desde que nós nunca nos apaguemos...
+
+4
+00:00:15,208 --> 00:00:18,541
+A Perseguição às Chamas nunca terminará...
+
+5
+00:00:43,833 --> 00:00:47,541
+Não... abaixe sua cabeça para a divindade...
+
+6
+00:01:07,541 --> 00:01:10,083
+Pegue isso, {M#Desbravador}{F#Desbravadora}.
+
+7
+00:01:12,541 --> 00:01:18,041
+Que este sangue seja como ouro e nunca seja manchado.
+

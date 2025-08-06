@@ -1,0 +1,4 @@
+﻿1
+00:00:01,958 --> 00:00:06,666
+Que le rideau tombe, Canon Cancrizans !
+

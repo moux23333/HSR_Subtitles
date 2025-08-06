@@ -1,0 +1,4 @@
+﻿1
+00:00:03,633 --> 00:00:05,966
+1 recurrencia eterna hasta el fin del mundo.
+

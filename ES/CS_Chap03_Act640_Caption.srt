@@ -1,0 +1,8 @@
+﻿1
+00:00:06,666 --> 00:00:09,416
+¿Puedes localizar al enemigo, Archer?
+
+2
+00:00:11,958 --> 00:00:14,375
+¡Ya! ¡Acabemos con esto!
+

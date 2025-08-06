@@ -1,0 +1,4 @@
+﻿1
+00:00:06,500 --> 00:00:08,833
+<unbreak>33</unbreak> <unbreak>550</unbreak> <unbreak>202</unbreak> récurrences éternelles jusqu'à la fin du monde.
+
