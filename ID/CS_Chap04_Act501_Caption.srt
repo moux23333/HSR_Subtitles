@@ -120,15 +120,15 @@ Hancurkan langit\nShatter the skies!
 
 31
 00:03:09,458 --> 00:03:10,666
-Tanpa takdir\nNo fate
+Tiada takdir\nNo fate
 
 32
 00:03:10,666 --> 00:03:11,791
-Tanpa raja\nNo king
+Tiada raja\nNo king
 
 33
 00:03:11,791 --> 00:03:13,916
-Tanpa dewa!\nNo god!
+Tiada dewa!\nNo god!
 
 34
 00:03:13,916 --> 00:03:16,375

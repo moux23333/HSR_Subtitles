@@ -1,0 +1,8 @@
+﻿1
+00:00:19,566 --> 00:00:22,000
+Seems like my feast is over.
+
+2
+00:00:25,333 --> 00:00:27,983
+It's now your turn to perform.
+

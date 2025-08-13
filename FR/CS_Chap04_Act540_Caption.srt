@@ -1,0 +1,64 @@
+﻿1
+00:00:00,683 --> 00:00:02,333
+Mais, Cyrène...
+
+2
+00:00:03,100 --> 00:00:06,116
+Et si tu attendais encore et encore, et que {F#l'héroïne}{M#le héros} ne venait jamais...
+
+3
+00:00:08,633 --> 00:00:09,183
+C'est impossible.
+
+4
+00:00:10,599 --> 00:00:11,316
+Je suis certaine que
+
+5
+00:00:12,766 --> 00:00:13,916
+peu importe le temps que ça prendra
+
+6
+00:00:14,766 --> 00:00:16,016
+{F#elle}{M#il} finira par faire son retour.
+
+7
+00:00:17,633 --> 00:00:19,350
+On ne peut pas {F#la}{M#le} décevoir.
+
+8
+00:00:37,216 --> 00:00:39,683
+Puissent des rayons d'aube tomber du Ciel pour toi.
+
+9
+00:00:40,433 --> 00:00:43,216
+Puisse la Romance t'accompagner le long de ton périple.
+
+10
+00:00:43,766 --> 00:00:46,116
+Puisse la Raison t'apporter ses lumières.
+
+11
+00:00:46,766 --> 00:00:49,016
+Puisse le Conflit t'apporter l'inspiration.
+
+12
+00:00:49,466 --> 00:00:51,733
+Puisse la Ruse t'assurer la victoire.
+
+13
+00:00:52,233 --> 00:00:55,016
+Puisse la Mort protéger ton âme.
+
+14
+00:00:55,916 --> 00:00:59,866
+Et enfin, puisse le Passage t'indiquer la route à suivre
+
+15
+00:01:01,500 --> 00:01:02,233
+alors que le Temps
+
+16
+00:01:03,250 --> 00:01:04,933
+se souviendra de l'expédition pionnière.
+
